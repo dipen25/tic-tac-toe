@@ -1,6 +1,6 @@
 # MODULES
-import pygame, sys  #for creating game and giving functions and variables
-import numpy as np 
+import pygame, sys  # pip install pygame
+import numpy as np  # pip install numpy
 
 # initializes pygame
 pygame.init()
